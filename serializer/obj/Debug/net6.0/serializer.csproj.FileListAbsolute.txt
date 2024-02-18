@@ -1,0 +1,17 @@
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\bin\Debug\net6.0\serializer.exe
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\bin\Debug\net6.0\serializer.deps.json
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\bin\Debug\net6.0\serializer.runtimeconfig.json
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\bin\Debug\net6.0\serializer.dll
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\bin\Debug\net6.0\serializer.pdb
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\obj\Debug\net6.0\serializer.csproj.AssemblyReference.cache
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\obj\Debug\net6.0\serializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\obj\Debug\net6.0\serializer.AssemblyInfoInputs.cache
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\obj\Debug\net6.0\serializer.AssemblyInfo.cs
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\obj\Debug\net6.0\serializer.csproj.CoreCompileInputs.cache
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\obj\Debug\net6.0\serializer.dll
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\obj\Debug\net6.0\refint\serializer.dll
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\obj\Debug\net6.0\serializer.pdb
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\obj\Debug\net6.0\serializer.genruntimeconfig.cache
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\obj\Debug\net6.0\ref\serializer.dll
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\bin\Debug\net6.0\AllTags.json
+D:\רחלי תכנות ו\פרקטיקוד\serializer\serializer\bin\Debug\net6.0\SelfClosingTags.json
